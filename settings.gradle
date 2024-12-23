@@ -1,0 +1,3 @@
+rootProject.name = 'simple-job-worker'
+include 'simple-job-worker-a'
+include 'simple-job-worker-b'
