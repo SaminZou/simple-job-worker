@@ -1,7 +1,7 @@
 package com.samin.jobworkera.job;
 
-import com.samin.jobsdk.exception.JobException;
-import com.samin.jobsdk.itf.JobWorker;
+import com.samin.sj.sdk.exception.JobException;
+import com.samin.sj.sdk.itf.JobWorker;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 

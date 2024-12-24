@@ -1,9 +1,9 @@
 package com.samin.jobworkera.service;
 
-import com.samin.jobsdk.SystemConstant;
-import com.samin.jobsdk.bean.JobCallbackDto;
-import com.samin.jobsdk.bean.JobDto;
-import com.samin.jobsdk.itf.JobWorker;
+import com.samin.sj.sdk.SystemConstant;
+import com.samin.sj.sdk.bean.JobCallbackDto;
+import com.samin.sj.sdk.bean.JobDto;
+import com.samin.sj.sdk.itf.JobWorker;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;

@@ -20,7 +20,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.samin:job-sdk:v1.0.0'
+    implementation 'com.samin:sj-sdk:v1.0.0'
     implementation 'org.springframework.boot:spring-boot-starter-amqp:2.7.5'
     implementation 'org.springframework.boot:spring-boot-starter-web:2.7.5'
     implementation 'cn.hutool:hutool-all:5.8.14'
